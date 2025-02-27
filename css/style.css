@@ -48,9 +48,6 @@ article div.aside {
     width: 50%;
     height: 50%;
 }
-article div.article-profile {
-    
-}
 article div.article-profile#avatar {
     display: flex;
 }
@@ -86,9 +83,6 @@ input[type=submit]:hover {
     border-radius: 5px;
     background-color: #f2f2f2;
     padding: 20px;
-}
-p.section1 {
-    
 }
 div.section1#section1-avatar {
     display: flex;
