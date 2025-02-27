@@ -1,4 +1,4 @@
-document.getElementById('formInput').addEventListener('send', validasiForm);
+document.getElementById('formInput').addEventListener('Send', validasiForm);
 function validasiForm(event) {
     event.preventDefault();
 
