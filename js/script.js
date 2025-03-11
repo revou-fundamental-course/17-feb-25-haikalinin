@@ -1,7 +1,6 @@
 document.getElementById('formInput').addEventListener('Send', validasiForm);
 function validasiForm(event) {
     event.preventDefault();
-
     var name = document.getElementById('name').value;
     var email = document.getElementById('email').value;
 
